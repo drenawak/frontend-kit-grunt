@@ -1,5 +1,5 @@
 # frontend-kit-grunt
 
-An elementary frontend workflow with gulp (WIP)
+An elementary frontend workflow with grunt (WIP)
 
     npm install
